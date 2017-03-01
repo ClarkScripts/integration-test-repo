@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danielstern/integration-test-repo.git"
+    "url": "git+https://github.com/ClarkScripts/integration-test-repo.git"
   },
   "author": "Joe Clark",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/danielstern/integration-test-repo/issues"
+    "url": "https://github.com/ClarkScripts/integration-test-repo/issues"
   },
-  "homepage": "https://github.com/danielstern/integration-test-repo#readme",
+  "homepage": "https://github.com/ClarkScripts/integration-test-rep#readme",
   "dependencies": {
     "body-parser": "^1.15.0",
     "express": "^4.13.4",
